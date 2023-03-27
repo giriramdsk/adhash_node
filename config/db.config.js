@@ -1,6 +1,6 @@
 const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongodb').ObjectId;
-const url = 'mongodb://127.0.0.1:27017/carDB';
+const url = 'mongodb://127.0.0.1:27017/adhashDB';
 const MongoOptions = { useNewUrlParser: true, useUnifiedTopology: true }
 let mongoose = require('mongoose');
 
