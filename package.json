@@ -1,0 +1,18 @@
+{
+  "name": "part-number-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js app that retrieves a part number from a website using Cheerio",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "redis": "^4.6.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "util": "^0.12.5"
+  }
+}
